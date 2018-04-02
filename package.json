@@ -1,0 +1,19 @@
+{
+  "name": "react-native-android-webview-video-fullscreen",
+  "version": "1.0.0",
+  "description": "Add in your MainActivity.java  ``` import io.getknow.inteachwebview.InTeachWebviewPackage;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soamee/react-native-android-webview-video-fullscreen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soamee/react-native-android-webview-video-fullscreen/issues"
+  },
+  "homepage": "https://github.com/soamee/react-native-android-webview-video-fullscreen#readme"
+}
